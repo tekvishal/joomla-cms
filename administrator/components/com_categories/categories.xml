@@ -12,6 +12,7 @@
 	<namespace path="src">Joomla\Component\Categories</namespace>
 	<administration>
 		<files folder="admin">
+			<filename>access.xml</filename>
 			<filename>categories.xml</filename>
 			<folder>forms</folder>
 			<folder>helpers</folder>
